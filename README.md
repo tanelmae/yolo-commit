@@ -1,4 +1,4 @@
-# yolo commit
+# yolo-commit
 
 Installation:
 ```
