@@ -1,0 +1,1 @@
+alias yolo='git commit -a -m "$(curl --silent --fail https://whatthecommit.com/index.txt)"'
